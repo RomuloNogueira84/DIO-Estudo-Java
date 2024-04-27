@@ -3,6 +3,6 @@ public class ExemploFor {
     for(int ptosFlamengo = 0;ptosFlamengo <= 90;ptosFlamengo ++){
       System.out.println("O Flamengo terminará o brasileiro com " + ptosFlamengo + " pontos");
     }
-    System.out.println("Mengão conquistou mais um brasileirão");
+    System.out.println("Mengão conquistou mais um brasileirão e ficamos muito felizes");
   }
 }

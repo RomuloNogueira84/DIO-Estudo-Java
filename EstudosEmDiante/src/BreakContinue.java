@@ -9,6 +9,7 @@ public class BreakContinue {
       if (numero ==3) 
         continue;
       System.out.println(numero);
+      System.out.println("Estou muito feliz de aprender Java");
     }
   }
 }
